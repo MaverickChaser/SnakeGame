@@ -6,4 +6,4 @@ Install pygame http://www.pygame.org/download.shtml
 Play Snake against AI !
 Run script run.py
 
-![alt tag](https://github.com/MaverickChaser/SnakeGame/raw/master/snake_game.tiff)
+![alt tag](https://github.com/MaverickChaser/SnakeGame/raw/master/snake_game.jpg)
